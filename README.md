@@ -1,4 +1,4 @@
-# TGBotDnepr
+# ~ Telegram Bot «TravelBot» ~
 
 Eng:
 
