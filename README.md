@@ -143,3 +143,7 @@
 Основатель и разработчик бота **Алексей Мантров** (https://t.me/Lexa_Coronos)
 
 -----------------------------------
+
+Структура проекта **«TravelTeleBot»**
+
+![screen](https://github.com/LexaCoronos/TravelTeleBot/blob/master/img/ProjectStructure.png)
